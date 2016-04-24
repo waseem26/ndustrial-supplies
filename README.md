@@ -1,1 +1,1 @@
-# ndustrial-supplies
+# industrial-supplies
